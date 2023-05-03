@@ -1,4 +1,9 @@
 body{
-    background-color: #322826;
-    background-color: black;
+    /* background-color: #322826;
+    background-color: black; */
+}
+
+.lift-container{
+    width: 80%;
+    margin: 0 auto;
 }
